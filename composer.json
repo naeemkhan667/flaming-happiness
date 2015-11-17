@@ -1,0 +1,15 @@
+{
+    "name": "naeemkhan667/flaming-happiness",
+    "description": "Description",
+    "homepage": "https://www.yahoo.com/",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Naeem",
+            "email": "nkhan@cinnova.com",
+            "homepage": "http://www.cinnova.com"
+        },
+
+    ]
+}
